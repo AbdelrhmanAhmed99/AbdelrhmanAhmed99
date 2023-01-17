@@ -31,7 +31,7 @@ Hyperparameter Tuning
 - Arabic: Native 
 
 # Resume 
-- Google Drive: https://docs.google.com/document/d/1MlGRKma7XwaAQV6nNTzImusdh9dnCYbc/edit
+- Google Drive: https://docs.google.com/document/d/1M5XD3ZZ_rB7m6PAouFjwPHql3YIjH_mo/edit
 # Contact
 - Email: abdelrhmanahmed478@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdelrhman-ahmed-489174172/
