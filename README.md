@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi, I’m Abdelrhman Ahmed Mansour
+- Machine Learning Engineer who is curious about Data Science, Mathematics and Machine Learning , seeking an opportunity to improve my skills and gain experience. Eager to learn new things each day.
 
-<!--
-**Skyho1d/Skyho1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Education
+- Bachelor's degree | Computer Engineering
+- Graduation Project: HEALTH-CARE Mobile Application | adding self-care services | Grade: Excellent. 
+- 08/2017 – 08/2022
 
-Here are some ideas to get you started:
+# Skills
+### Programming Languages
+- Python, C++ , Java
+### Technologies, Frameworks and Libraries 
+- Git | Github | Docker  
+- Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy 
+- Matplotlib | Seaborn 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ML Algorithms
+- (K-Means, KNN, Decision tree, SVM, and more)
+Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
+Regression (linear, Logistic) | Object-Detection
+### Deep Learning 
+- CNNs | LSTMs | RNNs | SOMs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
+Hyperparameter Tuning
+### IDEs, Containers, and code versioning 
+- Visual studio code | Jupyter-lab | Google Collaboratory |
+ PyCharm 
+
+# Languages
+- English: Full professional proficiency
+- German: Beginner A2
+- Arabic: Native 
+
+# Resume 
+- Google Drive: https://docs.google.com/document/d/1MlGRKma7XwaAQV6nNTzImusdh9dnCYbc/edit
+# Contact
+- Email: abdelrhmanahmed478@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-ahmed-489174172/
+
+# Feedback
+- I would appreciate it if you told me how to improve myself, I really need every piece of advice to develop myself , please reach me out on Email or Linkedin  
+- I know some week points of mine(problem solving and general software engineering principals) of mine and currently I am working on them. 
+- Thanks! 
+
+
+<!---
+**Skyho1d/Skyho1d** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
