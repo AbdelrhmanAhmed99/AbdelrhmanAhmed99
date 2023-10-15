@@ -10,8 +10,8 @@
 ### Programming Languages
 - Python, C++ , Java
 ### Technologies, Frameworks and Libraries 
-- Git | Github | Docker  
-- Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy 
+- Git | Github | Docker  | AWS
+- Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy | Pytorch
 - Matplotlib | Seaborn 
 
 ### ML Algorithms
@@ -19,19 +19,17 @@
 Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
 Regression (linear, Logistic) | Object-Detection
 ### Deep Learning 
-- CNNs | LSTMs | RNNs | SOMs | MLPs | Mathematical Optimization |
+- CNNs | LSTMs | RNNs | MLPs | LLMs
 Hyperparameter Tuning
 ### IDEs, Containers, and code versioning 
 - Visual studio code | Jupyter-lab | Google Collaboratory |
- PyCharm 
+ PyCharm | SageMaker
 
 # Languages
 - English: Full professional proficiency
 - German: Beginner A2
 - Arabic: Native 
 
-# Resume 
-- Google Drive: https://docs.google.com/document/d/1M5XD3ZZ_rB7m6PAouFjwPHql3YIjH_mo/edit
 # Contact
 - Email: abdelrhmanahmed478@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdelrhman-ahmed-489174172/
